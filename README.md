@@ -1,3 +1,3 @@
 # Laboratorio 1 
 
-Proyecto de laboratorio de Fundamentos de Programacion 
+Proyecto de laboratorio de Fundamentos de Programacion
